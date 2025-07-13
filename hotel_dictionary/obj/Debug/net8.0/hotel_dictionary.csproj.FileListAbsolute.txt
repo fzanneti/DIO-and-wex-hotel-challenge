@@ -1,0 +1,15 @@
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\bin\Debug\net8.0\hotel_dictionary.exe
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\bin\Debug\net8.0\hotel_dictionary.deps.json
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\bin\Debug\net8.0\hotel_dictionary.runtimeconfig.json
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\bin\Debug\net8.0\hotel_dictionary.dll
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\bin\Debug\net8.0\hotel_dictionary.pdb
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\obj\Debug\net8.0\hotel_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\obj\Debug\net8.0\hotel_dictionary.AssemblyInfoInputs.cache
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\obj\Debug\net8.0\hotel_dictionary.AssemblyInfo.cs
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\obj\Debug\net8.0\hotel_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\obj\Debug\net8.0\hotel_dictionary.sourcelink.json
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\obj\Debug\net8.0\hotel_dictionary.dll
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\obj\Debug\net8.0\refint\hotel_dictionary.dll
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\obj\Debug\net8.0\hotel_dictionary.pdb
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\obj\Debug\net8.0\hotel_dictionary.genruntimeconfig.cache
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_dictionary\obj\Debug\net8.0\ref\hotel_dictionary.dll

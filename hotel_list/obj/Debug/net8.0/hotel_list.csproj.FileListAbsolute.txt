@@ -1,0 +1,15 @@
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\bin\Debug\net8.0\hotel_list.exe
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\bin\Debug\net8.0\hotel_list.deps.json
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\bin\Debug\net8.0\hotel_list.runtimeconfig.json
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\bin\Debug\net8.0\hotel_list.dll
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\bin\Debug\net8.0\hotel_list.pdb
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\obj\Debug\net8.0\hotel_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\obj\Debug\net8.0\hotel_list.AssemblyInfoInputs.cache
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\obj\Debug\net8.0\hotel_list.AssemblyInfo.cs
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\obj\Debug\net8.0\hotel_list.csproj.CoreCompileInputs.cache
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\obj\Debug\net8.0\hotel_list.sourcelink.json
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\obj\Debug\net8.0\hotel_list.dll
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\obj\Debug\net8.0\refint\hotel_list.dll
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\obj\Debug\net8.0\hotel_list.pdb
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\obj\Debug\net8.0\hotel_list.genruntimeconfig.cache
+C:\Users\fzann\OneDrive\Documentos\Projects\dio-and-wex-hotel-challenge\hotel_list\obj\Debug\net8.0\ref\hotel_list.dll
