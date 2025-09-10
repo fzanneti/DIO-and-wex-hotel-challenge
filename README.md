@@ -1,4 +1,4 @@
-# 🧠 WEX End-to-End Engineering | Sistema de Hospedagem em .NET com C#
+# WEX End-to-End Engineering | Sistema de Hospedagem em .NET com C#
 
 Repositório educacional criado para consolidar o aprendizado da plataforma .NET com C#, baseado no curso _WEX - End to End Engineering_ da [DIO](https://web.dio.me). Este projeto combina prática e teoria, demonstrando o uso de coleções `List` e `Dictionary` em um sistema de gerenciamento de hotel.
 
@@ -12,13 +12,13 @@ Repositório educacional criado para consolidar o aprendizado da plataforma .NET
 
 ---
 
-### 📚 Conteúdo
+## Conteúdo
 
 Este repositório apresenta o projeto **Hospedagem / Hotelaria**, um aplicativo console em C# que gerencia hospedagens, suítes e reservas, com opção de usar `List` ou `Dictionary`. O conteúdo é organizado em módulos de aprendizado, com exemplos práticos e explicações.
 
 ---
 
-### ✅ Fundamentos do .NET e C#
+### Fundamentos do .NET e C#
 
 - **Plataforma .NET**: Introdução ao .NET 8.0
 - **C#**: Tipagem forte, sintaxe moderna, e integração com .NET.
@@ -34,16 +34,16 @@ Console.WriteLine(500.50m.ToString("C")); // Saída: R$ 500,50
 
 ---
 
-- **Links**:    
+### Links:    
 
-    - [Documentação .NET](https://learn.microsoft.com/dotnet)
-    - [História do C#](https://learn.microsoft.com/csharp/tour-of-csharp)
+🔗[Documentação .NET](https://learn.microsoft.com/dotnet)     
+🔗[História do C#](https://learn.microsoft.com/csharp/tour-of-csharp)
 
 ---
 
-### 🧪 Sintaxe e Lógica de Programação
+## Sintaxe e Lógica de Programação
 
-- **Variáveis e Tipos**:
+### Variáveis e Tipos:
 
 ```csharp
 
@@ -53,7 +53,9 @@ decimal preco = 450.00m;
 
 ```
 
-- **Condicionais**:
+---
+
+### Condicionais*:
 
 ```csharp
   
@@ -62,7 +64,9 @@ if (dias >= 10)
 
 ```
 
-- **Laços**:
+---
+
+### Laços:
 
 ```csharp
   
@@ -71,7 +75,9 @@ foreach (var h in hospedes)
 
 ```
 
-- **Métodos**:
+---
+
+### Métodos:
 
 ```csharp
 
@@ -83,17 +89,21 @@ private decimal CalcularCusto()
   
 ```
 
+---
+
 - **Aplicação**: O menu interativo usa `switch` para navegar pelas opções, e validações garantem entradas seguras.
 
 ---
 
-### 🏗️ Programação Orientada a Objetos
+## Programação Orientada a Objetos
 
 - **Classes**:
 
   - `Hospede`: Armazena ID, Nome, Sobrenome.
   - `Suite`: Inclui ID, Nome, Preço Diária, Capacidade, Disponibilidade.
   - `Reserva`: Gerencia ID, Hóspede, Suíte, Dias, Custo Total.
+ 
+---
 
 - **Exemplo**:
 
@@ -114,13 +124,15 @@ public class Hospede
 
 ```
 
+---
+
 - **Encapsulamento**: Propriedades com validação no construtor.
 
 ---
 
-### 📌 Manipulando Valores com C#
+## Manipulando Valores com C#
 
-- **Formatação Monetária**:
+### Formatação Monetária:
 
 ```csharp
 
@@ -128,7 +140,9 @@ public class Hospede
 
 ```
 
-- **Validação de Entradas**:
+---
+
+### Validação de Entradas:
 
 ```csharp
  
@@ -137,7 +151,9 @@ if (!int.TryParse(Console.ReadLine(), out int id))
 
 ```
 
-- **Cultura**:
+---
+
+### Cultura:
 
 ```csharp
 
@@ -146,11 +162,13 @@ Console.WriteLine(custo.ToString("C2", cultura)); // Saída: R$2250,00
 
 ```
 
+---
+
 - **Aplicação**: Preços formatados em reais, validação de números inteiros e decimais.
 
 ---
 
-#### ❗ Tratamento de Exceções
+## Tratamento de Exceções
 
 - **Bloco `try-catch`**:
 
@@ -168,13 +186,17 @@ try
 
 ```
 
-- **Exceções Específicas**:
+---
+
+### Exceções Específicas:
 
   - `KeyNotFoundException`: Para IDs inválidos.
   - `ArgumentException`: Para entradas inválidas.
   - `InvalidOperationException`: Para ações proibidas.
 
-- **Exportação CSV**:
+---
+
+### Exportação CSV:
 
 ```csharp
 
@@ -196,13 +218,16 @@ catch (IOException)
 
 ---
 
-### 📦 Coleções em C#
+## Coleções em C#
 
-- **List**:
+### List:
 
-  - Usada em `hotel_list`.
-  - Busca linear (O(n)).
-  - Exemplo:
+- Usada em `hotel_list`.
+- Busca linear (O(n)).
+
+---
+
+### Exemplo:
 
 ```csharp
 
@@ -212,11 +237,16 @@ var hospede = hospedes.Find(h => h.Id == 1);
 
 ```
 
-- **Dictionary**:
+---
 
-  - Usada em `hotel_dictionary`.
-  - Busca por chave (O(1)).
-  - Exemplo:
+### Dictionary:
+
+- Usada em `hotel_dictionary`.
+- Busca por chave (O(1)).
+
+---
+
+### Exemplo:
 
 ```csharp
 
@@ -226,18 +256,22 @@ var hospede = hospedes[1];
 
 ```
 
-- **Comparação**:
+---
+
+### Comparação:
 
   | Coleção   | Busca | Inserção | Remoção | Caso de Uso              |
   |-------------|---------|------------|-----------|-----------------------|
   | List       | O(n)   | O(1)     | O(n)     | Coleções pequenas     |
   | Dictionary | O(1)     | O(1)      | O(1)      | Acesso rápido por ID  |
 
+---
+
 - **Aplicação**: O usuário escolhe entre `List` e `Dictionary` no início, permitindo comparar desempenho.
 
 ---
 
-### ✨ Objetivo
+## Objetivo
 
 - Fornecer um projeto prático que consolide fundamentos de C# e .NET.
 - Demonstrar habilidades em POO, coleções, e tratamento de erros.
@@ -246,7 +280,7 @@ var hospede = hospedes[1];
 
 ---
 
-### 🚀 Para quem é este projeto?
+## Para quem é este projeto?
 
 - 🧑‍💻 Iniciantes em .NET e C#.
 - 🎓 Alunos do curso WEX - End-to-End Engineering.
@@ -256,9 +290,9 @@ var hospede = hospedes[1];
 
 ---
 
-### 🔗 Links Úteis
+### Links Úteis
 
-- [Documentação Oficial .NET](https://learn.microsoft.com/dotnet)
+🔗[Documentação Oficial .NET](https://learn.microsoft.com/dotnet)
 
 ---
 
