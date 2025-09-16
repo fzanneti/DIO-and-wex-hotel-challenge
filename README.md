@@ -41,9 +41,9 @@ Console.WriteLine(500.50m.ToString("C")); // Saída: R$ 500,50
 
 ---
 
-## Sintaxe e Lógica de Programação
+### Sintaxe e Lógica de Programação
 
-### Variáveis e Tipos:
+**Variáveis e Tipos:**
 
 ```csharp
 
@@ -55,7 +55,7 @@ decimal preco = 450.00m;
 
 ---
 
-### Condicionais*:
+**Condicionais:**
 
 ```csharp
   
@@ -66,7 +66,7 @@ if (dias >= 10)
 
 ---
 
-### Laços:
+**Laços:**
 
 ```csharp
   
@@ -77,7 +77,7 @@ foreach (var h in hospedes)
 
 ---
 
-### Métodos:
+**Métodos:**
 
 ```csharp
 
@@ -91,11 +91,13 @@ private decimal CalcularCusto()
 
 ---
 
-- **Aplicação**: O menu interativo usa `switch` para navegar pelas opções, e validações garantem entradas seguras.
+**Aplicação**: 
+
+O menu interativo usa `switch` para navegar pelas opções, e validações garantem entradas seguras.
 
 ---
 
-## Programação Orientada a Objetos
+### Programação Orientada a Objetos
 
 - **Classes**:
 
@@ -126,13 +128,15 @@ public class Hospede
 
 ---
 
-- **Encapsulamento**: Propriedades com validação no construtor.
+- **Encapsulamento**:
+
+Propriedades com validação no construtor.
 
 ---
 
-## Manipulando Valores com C#
+### Manipulando Valores com C#
 
-### Formatação Monetária:
+**Formatação Monetária:**
 
 ```csharp
 
@@ -142,7 +146,7 @@ public class Hospede
 
 ---
 
-### Validação de Entradas:
+**Validação de Entradas:**
 
 ```csharp
  
@@ -153,7 +157,7 @@ if (!int.TryParse(Console.ReadLine(), out int id))
 
 ---
 
-### Cultura:
+**Cultura:**
 
 ```csharp
 
@@ -164,11 +168,13 @@ Console.WriteLine(custo.ToString("C2", cultura)); // Saída: R$2250,00
 
 ---
 
-- **Aplicação**: Preços formatados em reais, validação de números inteiros e decimais.
+**Aplicação**: 
+
+Preços formatados em reais, validação de números inteiros e decimais.
 
 ---
 
-## Tratamento de Exceções
+### Tratamento de Exceções
 
 - **Bloco `try-catch`**:
 
@@ -280,19 +286,31 @@ var hospede = hospedes[1];
 
 ---
 
-## Para quem é este projeto?
+### Para quem é este projeto?
 
-- 🧑‍💻 Iniciantes em .NET e C#.
-- 🎓 Alunos do curso WEX - End-to-End Engineering.
-- 🔁 Profissionais em transição de carreira.
-- 📚 Estudantes reforçando fundamentos.
-- 🧠 Autodidatas buscando prática organizada.
+- Iniciantes em .NET e C#.
+- Alunos do curso WEX - End-to-End Engineering.
+- Profissionais em transição de carreira.
+- Estudantes reforçando fundamentos.
+- Autodidatas buscando prática organizada.
 
 ---
 
 ### Links Úteis
 
 🔗[Documentação Oficial .NET](https://learn.microsoft.com/dotnet)
+
+---
+
+### Desafio Vinculado ao Curso - DIO X WEX - End to End Engineering
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=DIO-wex-e2e-csharp&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/DIO-wex-e2e-csharp)
+
+---
+
+### Certificado
+
+<img src="https://github.com/fzanneti/DIO-wex-e2e-csharp/blob/7e1d7d13ed442977b428bf7a4a80e9c85f56df51/Assets/images/certificados/17-construindo-um-sistema-de-hospedagem-de-um-hotel-no-CSharp.jpg" alt="Certificado" width="600px">
 
 ---
 
